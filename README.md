@@ -1,4 +1,4 @@
-<html>
+s<html>
     <head>
         <title>FOOD</title>
         <link rel="stylesheet" href="CSS/style.css"
